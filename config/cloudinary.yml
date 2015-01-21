@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: giftcycling
+  api_key: '695827497926415'
+  api_secret: 4npmuba7V5Ou6WEZZpgwA4gtMbU
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: giftcycling
+  api_key: '695827497926415'
+  api_secret: 4npmuba7V5Ou6WEZZpgwA4gtMbU
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: giftcycling
+  api_key: '695827497926415'
+  api_secret: 4npmuba7V5Ou6WEZZpgwA4gtMbU
+  enhance_image_tag: true
+  static_image_support: false
