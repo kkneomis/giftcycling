@@ -13,6 +13,7 @@ gem 'carrierwave'
 gem "figaro"
 gem 'jquery-turbolinks'  
 gem 'cloudinary'
+gem "gritter", "1.1.0"
 
 group :production do
 
